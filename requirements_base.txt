@@ -24,9 +24,9 @@ pando==0.44 \
 
 MarkupSafe==0.23 \
     --hash=sha256:a4ec1aff59b95a14b45eb2e23761a0179e98319da5a7eb76b56ea8cdc7b871c3
-Jinja2==2.8 \
-    --hash=sha256:1cc03ef32b64be19e0a5b54578dd790906a34943fe9102cfdae0d4495bd536b4 \
-    --hash=sha256:bc1ff2ff88dbfacefde4ddde471d1417d3b304e8df103a7a9437d47269201bf4
+Jinja2==2.10.1 \
+    --hash=sha256:14dd6caf1527abb21f08f86c784eac40853ba93edb79552aa1e4b8aef1b61c7b \
+    --hash=sha256:065c4f02ebe7f7cf559e49ee5a95fb800a9e4528727aec6f24402a5374c65013
 aspen-jinja2==0.5 \
     --hash=sha256:b199d34d84cfaab3f5a94c3e28fa04bd453950f7c1187ff92e9fbf2319e1e1fa \
     --hash=sha256:316fad588dc68bb8f86a6bf7cf56d2a666a1e4659d30bf26c29f24685dd2a8e6
