@@ -1,7 +1,7 @@
 
-py==1.4.31 \
-    --hash=sha256:4a3e4f3000c123835ac39cab5ccc510642153bc47bc1f13e2bbb53039540ae69 \
-    --hash=sha256:a6501963c725fc2554dabfece8ae9a8fb5e149c0ac0a42fd2b02c5c1c57fc114
+py==1.10.0 \
+    --hash=sha256:3b80836aa6d1feeaa108e046da6423ab8f6ceda6468545ae8d02d9d58d18818a \
+    --hash=sha256:21b81bda15b66ef5e1a777a21c4dcd9c20ad3efd0b3f817e7a809035269e1bd3
 pytest==2.8.7 \
     --hash=sha256:33612ed6de42f05640fe058aafdf08899eabcb210da74aeb0b788de9695c8bb5 \
     --hash=sha256:fc4c86be54fce08e4b85b646a736efa18c6cde7599c1d2919f4f74629e018baf
